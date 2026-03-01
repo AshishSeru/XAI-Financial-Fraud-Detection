@@ -112,7 +112,7 @@ Ashish Seru – ML pipeline design, model development, evaluation
 
 Archit Mehrotra – Co-developer, experimentation & validation
 
-Tanisha Gotadke – Documentation & research synthesis
+Tanisha Gotadke – Documentation & research synthesis, Research Survey
 
 Faculty mentors – Research supervision
 
