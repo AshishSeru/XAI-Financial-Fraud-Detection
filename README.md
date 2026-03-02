@@ -112,7 +112,7 @@ Ashish Seru – ML pipeline design, model development, evaluation
 
 Archit Mehrotra – Co-developer, experimentation & validation
 
-Tanisha Gotadke – Documentation & research synthesis, Research Survey
+Tanisha Gotadke – Documentation & research synthesis
 
 Faculty mentors – Research supervision
 
@@ -131,6 +131,8 @@ Isolation Forest
 SHAP, LIME
 
 Pandas, NumPy
+
+Streamlit
 
 ## 🎯 Why This Project Matters
 
