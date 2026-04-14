@@ -9,7 +9,7 @@ trustworthy, interpretable ML systems suitable for real-world financial environm
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 Financial fraud detection systems face three major challenges:
 
@@ -25,7 +25,7 @@ This project addresses these challenges by combining:
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ### Pipeline Overview
 
@@ -49,7 +49,7 @@ This layered architecture ensures **accuracy, robustness, and interpretability**
 
 ---
 
-## 📊 Key Results (Research-Backed)
+## Key Results (Research-Backed)
 
 | Model          | Accuracy | Precision | Recall | F1-Score |
 |----------------|----------|-----------|--------|----------|
@@ -62,7 +62,7 @@ This layered architecture ensures **accuracy, robustness, and interpretability**
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 XAI-Financial-Fraud-Detection/
 │
 ├── src/ # Core ML pipeline
@@ -83,7 +83,7 @@ XAI-Financial-Fraud-Detection/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Install dependencies:
 
@@ -97,7 +97,7 @@ python src/main.py
 Launch the dashboard (if applicable):
 python fraud_dashboard.py
 
-📄 Research Publication
+📄Research Publication
 
 This implementation is based on the peer-reviewed paper:
 
@@ -134,7 +134,7 @@ Pandas, NumPy
 
 Streamlit
 
-## 🎯 Why This Project Matters
+## Why This Project Matters
 
 This project goes beyond a toy ML implementation and reflects real-world financial system requirements:
 
